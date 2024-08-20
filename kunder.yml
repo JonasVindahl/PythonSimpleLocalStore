@@ -1,8 +1,8 @@
 - id: 1
   kunde: jonas
-  password: b57ab83c46b6d31ec46e9fa55cb4fb4a
+  password: 5f4dcc3b5aa765d61d8327deb882cf99
   usertype: admin
 - id: 2
   kunde: kunde
-  password: b57ab83c46b6d31ec46e9fa55cb4fb4a 
+  password: 5f4dcc3b5aa765d61d8327deb882cf99 
   usertype: kunde
