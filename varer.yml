@@ -1,0 +1,10 @@
+- id: 1
+  lager: 94
+  navn: "\xC6ble"
+  pris: 5
+  rabat: 0
+- id: 2
+  lager: 15
+  navn: kage
+  pris: 200
+  rabat: 50
